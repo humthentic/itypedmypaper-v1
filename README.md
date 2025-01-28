@@ -1,4 +1,4 @@
-This repository contains the code for the desktop streamer to be used with iTypedMyPaper.
+This repository contains the code for the desktop app to be used with iTypedMyPaper.
 
 Learn more:
 
